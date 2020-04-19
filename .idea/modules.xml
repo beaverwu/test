@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/common/common.iml" filepath="$PROJECT_DIR$/../springcloud/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/eureka/eureka.iml" filepath="$PROJECT_DIR$/../springcloud/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/feign/feign.iml" filepath="$PROJECT_DIR$/../springcloud/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/gateway/gateway.iml" filepath="$PROJECT_DIR$/../springcloud/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring_demo/spring_demo.iml" filepath="$PROJECT_DIR$/../spring_demo/spring_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jeecg-boot/test/test.iml" filepath="$PROJECT_DIR$/../jeecg-boot/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/user/user.iml" filepath="$PROJECT_DIR$/../springcloud/user/user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/user2/user (1).iml" filepath="$PROJECT_DIR$/../springcloud/user2/user (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/user2/user2.iml" filepath="$PROJECT_DIR$/../springcloud/user2/user2.iml" />
+    </modules>
+  </component>
+</project>
